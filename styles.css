@@ -1,0 +1,12 @@
+h1{
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+td{
+  background-color: lightblue, plum;
+}
+
+td hover{
+    font-style: underline;
+}
